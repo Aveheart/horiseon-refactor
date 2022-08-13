@@ -16,10 +16,7 @@ This application will be viewed on a traditional desktop web browser.
 
 
 ## Credits
-### Shout out to the teachers, TAs, and fellow students from the UCLA Coding Bootcamp and all the help given for this project.
-##References
-###(https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3)
-[https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3]
+Shout out to the teachers, TAs, and fellow students from the UCLA Coding Bootcamp and all the help given for this project.
 
 
 ## Badges
