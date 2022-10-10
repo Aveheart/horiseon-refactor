@@ -10,9 +10,7 @@ This is a code refractor for the Horiseon website.  The purpose was to clean up 
 * replaced png image with jpg image to reduce file size.
 
 ## Usage
-This application will be viewed on a traditional desktop web browser.
-![hero] 
-("../images/digital-marketing-meeting.jpg")
+
 
 
 ## Credits
