@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* css for aside html */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,7 +113,7 @@ p {
     max-width: 150px;
 
 } 
-
+/* css for three articles in html. image and text content */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,7 +129,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*  css for footer on page*/
 .footer {
     padding: 30px;
     clear: both;
