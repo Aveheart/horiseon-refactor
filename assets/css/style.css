@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/*  added scroll-behavior for a smooth scroll*/
 body {
     background-color: #d9dcd6;
     scroll-behavior: smooth;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*  main photo css*/
 .hero {
     height: 800px;
     width: 100%;
